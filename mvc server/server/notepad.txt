@@ -1,0 +1,24 @@
+MERN STACK | CRUD Bootstrap Blog App | PART >>1 to 6 >>>>>>>>>>>>
+https://www.youtube.com/watch?v=RdGD6Vt6fW0 (PART >>> 1)
+https://www.youtube.com/watch?v=Q74YsUVQ9sk&t=0s (PART >>> 2)
+
+
+for server >>>>>>>>>>>>>>>>
+npm init --y
+npm i express mongoose cors
+npm i dotenv
+npm i nodemon --save-dev
+
+
+
+https://www.youtube.com/watch?v=Q74YsUVQ9sk
+
+
+steps to follow in backend >>>>>>>>>>>>>>>
+*) Create a server
+*) add nodemon express mongoose cors dotenv
+*) make a moongodb atlas server and connect it
+*) add some middleware
+*) add modals
+*) add routes
+*) test api with postman
